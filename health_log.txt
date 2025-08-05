@@ -1,0 +1,22 @@
+===== Server Health Check =====
+Date: Tue Aug  5 08:19:29 PM IST 2025
+
+--- CPU Usage ---
+%Cpu(s):  1.1 us,  2.2 sy,  0.0 ni, 96.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           5.5Gi       3.8Gi       868Mi       200Mi       1.3Gi       1.7Gi
+Swap:          4.0Gi       256Ki       4.0Gi
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           566M  2.1M  564M   1% /run
+/dev/nvme0n1p2  468G   17G  428G   4% /
+tmpfs           2.8G     0  2.8G   0% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+efivarfs        148K   58K   86K  41% /sys/firmware/efi/efivars
+/dev/nvme0n1p1  1.1G   23M  1.1G   3% /boot/efi
+tmpfs           566M  136K  566M   1% /run/user/1000
+--- Uptime ---
+ 20:19:30 up  1:26,  1 user,  load average: 0.37, 0.35, 0.45
+===============================
+
