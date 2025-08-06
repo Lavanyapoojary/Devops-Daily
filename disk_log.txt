@@ -1,0 +1,5 @@
+[Wed Aug  6 10:14:13 PM IST 2025] Starting disk usage check...
+[Wed Aug  6 10:14:13 PM IST 2025] OK: / is 3% full.
+[Wed Aug  6 10:14:13 PM IST 2025] OK: /sys/firmware/efi/efivars is 41% full.
+[Wed Aug  6 10:14:13 PM IST 2025] OK: /boot/efi is 3% full.
+[Wed Aug  6 10:14:13 PM IST 2025] Disk check complete.
