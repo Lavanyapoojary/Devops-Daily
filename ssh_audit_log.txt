@@ -1,0 +1,8 @@
+SSH Audit Log - Thu Aug  7 09:56:02 PM IST 2025
+
+Currently Logged-in Users:
+lavanya-amin seat0        2025-08-07 18:34 (login screen)
+lavanya-amin tty2         2025-08-07 18:34 (tty2)
+lavanya-amin pts/1        2025-08-07 21:56
+
+Failed SSH Login Attempts:
